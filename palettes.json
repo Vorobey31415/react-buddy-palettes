@@ -1,0 +1,54 @@
+{
+  "palettes": [
+    {
+      "paletteName": "@react-buddy/palette-antd",
+      "paletteComponentName": "AntdPalette",
+      "UIKitName": "antd",
+      "versions": [
+        {
+          "version": "4.18.1"
+        }
+      ]
+    },
+    {
+      "paletteName": "@react-buddy/palette-chakra-ui",
+      "paletteComponentName": "ChakraPalette",
+      "UIKitName": "@chakra-ui/react",
+      "versions": [
+        {
+          "version": "2.3.1"
+        }
+      ]
+    },
+    {
+      "paletteName": "@react-buddy/palette-mantine",
+      "paletteComponentName": "MantinePalette",
+      "UIKitName": "@mantine/core",
+      "versions": [
+        {
+          "version": "5.7.1"
+        }
+      ]
+    },
+    {
+      "paletteName": "@react-buddy/palette-mui",
+      "paletteComponentName": "MUIPalette",
+      "UIKitName": "@mui/material",
+      "versions": [
+        {
+          "version": "5.0.1"
+        }
+      ]
+    },
+    {
+      "paletteName": "@react-buddy/palette-react-intl",
+      "paletteComponentName": "IntlPalette",
+      "UIKitName": "react-intl",
+      "versions": [
+        {
+          "version": "5.20.1"
+        }
+      ]
+    }
+  ]
+}
