@@ -4,7 +4,7 @@
       "palettePackage": "@react-buddy/palette-antd",
       "paletteComponentName": "AntdPalette",
       "libraryPackage": "antd",
-      "versions": ["4.18.1"]
+      "versions": ["4.18.1", "4.24.6"]
     },
     {
       "palettePackage": "@react-buddy/palette-chakra-ui",
